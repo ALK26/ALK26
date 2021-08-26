@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALK26
-- 👀 I’m interested in python, aws cloud, codes, scripts, machine learning, quantum computing, web apps, quantum apps, mobile apps, C#, Android Studio, Unity...
-- 🌱 I’m currently learning python, aws cloud computing, codes, scripts, machine learning, quantum computing, web apps, quantum apps, mobile apps...
+- 👀 I’m interested in python, machine learning, AI, cloud computing, quantum computing, apps - web, mobile, quantum and Android Studio, Unity, C#, 
+- 🌱 I’m currently developing web apps using python & jupter notebooks, with ibm cloud and aws cloud for modelling, measuring, making predictions from datasets,sources 
 - 💞️ I’m looking to collaborate on digital solutions...minimum viable products, proof of concepts.
 - 📫 Get in touch... alkan.uk@gmail.com
 
